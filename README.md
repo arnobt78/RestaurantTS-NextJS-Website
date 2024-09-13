@@ -3,7 +3,7 @@
 
 RestaurantTS App is a NextJS 14 Static Restaurant Landing Page, using React.js, Typescript, Webpack, TailwindCSS, Framer-Motion, TailwindCSS-Animate, Radix-UI, Date-fns, React-Leaflet, Lucide-React, React-Day-Picker, React-Scroll, React-Icons, React-Responsive features and deployed on Vercel.
 
-**Note: This static webpage is built using Typescript, I have developed the same static webpage using Javascript (https://github.com/arnobt78/RestaurantJS-NextJS-Website )**
+**Note: This static webpage is built using Typescript, I have developed the same static webpage using Javascript. (https://github.com/arnobt78/RestaurantJS-NextJS-Website)**
 
 **Note: To check this website live, click here:** https://restaurant-ts-arnob.vercel.app/
 
