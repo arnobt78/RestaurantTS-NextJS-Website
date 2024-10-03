@@ -9,11 +9,11 @@ RestaurantTS App is a NextJS 14 Static Restaurant Landing Page, using React.js, 
 
 **Note: To check this website live, click here:** https://restaurant-ts-arnob.vercel.app/
 
-## To Install Dependences
+## To Install Dependencies
 
 Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
 
-To install all dependences, run this command from your project folder: `npm install`
+To install all dependencies, run this command from your project folder: `npm install`
 
 ## To Run Project
 
